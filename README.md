@@ -1,14 +1,8 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 50vh; text-align: center;">
-
-  <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="100" style="margin-bottom: 10px;">
-
-  <h1>
+<h1 align="center">
+    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="100" style="vertical-align: middle; margin-right: 10px;">
     <b>Hi, I'm Alvaro Durand Manrique</b>
-  </h1>
-
-  <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="100" style="margin-top: 10px;">
-
-</div>
+    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="100" style="vertical-align: middle; margin-left: 10px;">
+</h1>
 
 <br>
 
