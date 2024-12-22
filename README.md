@@ -18,30 +18,28 @@
     <th colspan="2" style="font-size: 24px; padding: 10px;">👨🏻‍💻 &nbsp;About Me</th>
   </tr>
   <tr>
-    <td>👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.</td>
+    <td>👨‍💻 &nbsp;I am a graduate in Computer Science.</td>
   </tr>
   <tr>
-    <td>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.</td>
+    <td>💡 &nbsp;I'm on a journey to learn more about web development every day, as it is what I love and am passionate about.</td>
   </tr>
   <tr>
-    <td>🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering.</td>
+    <td>🎓 &nbsp;Currently, I'm looking for work opportunities.</td>
   </tr>
   <tr>
-    <td>🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.</td>
+    <td>🌱 &nbsp;I am focused on web development.</td>
   </tr>
   <tr>
-    <td>✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.</td>
+    <td>✍️ &nbsp;In my free time, I design websites and projects for clients and companies.</td>
   </tr>
   <tr>
-    <td>💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.</td>
-  </tr>
-  <tr>
-    <td>✉️ &nbsp;You can shoot me an email at alvaro.durand@ucsp.edu.pe</td>
+    <td>💬 &nbsp;Feel free to contact me to know more about me.</td>
   </tr>
   <tr>
     <td>📄 &nbsp;Please have a look at my CV <a href="https://drive.google.com/file/d/1j_e2QQjgcy7FbRv69JoFvufS-K6qjKLx/view?usp=drive_link" target="_blank">here</a>.</td>
   </tr>
 </table>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
