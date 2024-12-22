@@ -19,7 +19,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at alvaro.durand@ucsp.edu.pe\
 📄 &nbsp;Please have a look at my CV https://drive.google.com/file/d/1j_e2QQjgcy7FbRv69JoFvufS-K6qjKLx/view?usp=drive_link
-</br>
+
 
 <br><br>
 
