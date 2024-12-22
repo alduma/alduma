@@ -73,7 +73,7 @@
 ![Macros](https://img.shields.io/badge/Macros-%230E4C97.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
 
-### 🗃 &nbsp;Databases
+### <div align="center">🗃 &nbsp;Databases</div>
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -82,7 +82,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%230078D4.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 
 
-### 🧰 &nbsp;Version Controll & Tools 
+### <div align="center">🧰 &nbsp;Version Controll & Tools</div>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
