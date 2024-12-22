@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="100" style="vertical-align: middle; margin-right: 10px;">
-    <b>Hi, I'm Alvaro Durand Manrique</b>
-    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="100" style="vertical-align: middle; margin-left: 10px;">
+    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="100" style="vertical-align: middle; margin-right: 15px;">
+    <span style="vertical-align: middle;"><b>Hi, I'm Alvaro Durand Manrique</b></span>
+    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="100" style="vertical-align: middle; margin-left: 15px;">
 </h1>
 
 <br>
