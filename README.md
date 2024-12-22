@@ -119,7 +119,7 @@
 <img src="https://img.shields.io/badge/linkedin-Alvaro%20Durand-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:alvaro.durand@ucsp.edu.pe" target="_blank">
+<a href="mailto:alvaro.durand@ucsp.edu.pe">
 <img src="https://img.shields.io/badge/gmail-Alvaro%20Durand-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
 </div>
