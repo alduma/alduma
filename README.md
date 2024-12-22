@@ -73,16 +73,16 @@
 ![Macros](https://img.shields.io/badge/Macros-%230E4C97.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 </div>
 
-### <div align="center">🗃 &nbsp;Databases</div>
+### <div align="center">🗃 &nbsp;Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-%23193584.svg?style=for-the-badge&logo=pgadmin&logoColor=white)&nbsp;
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%230078D4.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+</div>
 
-
-### <div align="center">🧰 &nbsp;Version Controll & Tools</div>
+### <div align="center">🧰 &nbsp;Version Controll & Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -92,7 +92,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
