@@ -33,12 +33,13 @@
     <td>✍️ &nbsp;In my free time, I design websites and projects for clients and companies.</td>
   </tr>
   <tr>
-    <td>💬 &nbsp;Feel free to contact me to know more about me.</td>
+    <td>💬 &nbsp;Feel free to contact me to know more about me. You can reach me at <a href="mailto:alvaro.durand@ucsp.edu.pe" target="_blank">alvaro.durand@ucsp.edu.pe</a>.</td>
   </tr>
   <tr>
     <td>📄 &nbsp;Please have a look at my CV <a href="https://drive.google.com/file/d/1j_e2QQjgcy7FbRv69JoFvufS-K6qjKLx/view?usp=drive_link" target="_blank">here</a>.</td>
   </tr>
 </table>
+
 
 </div>
 
