@@ -120,7 +120,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="mailto:alvaro.durand@ucsp.edu.pe">
-<img src="https://img.shields.io/badge/gmail-Alvaro%20Durand-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail-alvaro.durand@ucsp.edu.pe-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
 </div>
 
