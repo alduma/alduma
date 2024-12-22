@@ -74,8 +74,6 @@
 
 </div>
 
----
-
 ### <div align="center">🗃 &nbsp;Databases</div>
 <div align="center">
 
@@ -86,7 +84,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%230078D4.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 
 </div>
----
 
 ### <div align="center">🧰 &nbsp;Version Control & Tools</div>
 <div align="center">
