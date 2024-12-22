@@ -51,7 +51,7 @@
 
 ### <div align="center">🛠 &nbsp;Tech Stack</div>
 
-
+<div align="center">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -71,7 +71,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23047A47.svg?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
 ![Excel](https://img.shields.io/badge/Excel-%23247697.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Macros](https://img.shields.io/badge/Macros-%230E4C97.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
-
+</div>
 
 ### <div align="center">🗃 &nbsp;Databases</div>
 
