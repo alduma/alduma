@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">
-    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="100" style="vertical-align: middle; margin-right: 30px;">
+    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="80" style="vertical-align: middle; margin-right: 20px;">
     <span style="vertical-align: middle; line-height: 0;"><b>Hi, I'm Alvaro Durand Manrique</b></span>
-    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="100" style="vertical-align: middle; margin-left: 30px;">
+    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="80" style="vertical-align: middle; margin-left: 20px;">
 </h1>
 
 
