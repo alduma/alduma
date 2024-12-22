@@ -8,7 +8,6 @@
 
 
 
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ### 👨🏻‍💻 &nbsp;About Me
@@ -21,7 +20,9 @@
 ✉️ &nbsp;You can shoot me an email at alvaro.durand@ucsp.edu.pe\
 📄 &nbsp;Please have a look at my CV https://drive.google.com/file/d/1j_e2QQjgcy7FbRv69JoFvufS-K6qjKLx/view?usp=drive_link
 </br>
+
 <br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
