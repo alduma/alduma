@@ -123,7 +123,6 @@
 </a>
 </li>
 
-<br>
 
 <li>
 <a href="https://twitter.com/0xabdulkhalid" target="_blank">
@@ -131,7 +130,6 @@
 </a>
 </li>
 
-<br>
 
 <li>
 <a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
@@ -142,11 +140,6 @@
 </ul>
 </div>
 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
