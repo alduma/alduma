@@ -10,6 +10,9 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<div align="center">
+
 <table style="width: 100%; text-align: center; border: none;">
   <tr>
     <th colspan="2" style="font-size: 24px; padding: 10px;">👨🏻‍💻 &nbsp;About Me</th>
@@ -39,6 +42,7 @@
     <td>📄 &nbsp;Please have a look at my CV <a href="https://drive.google.com/file/d/1j_e2QQjgcy7FbRv69JoFvufS-K6qjKLx/view?usp=drive_link" target="_blank">here</a>.</td>
   </tr>
 </table>
+</div>
 
 
 <br><br>
