@@ -15,8 +15,9 @@
 
 <table style="width: 100%; text-align: center; border: none;">
   <tr>
-    <th colspan="2" style="font-size: 24px; padding: 10px;">👨🏻‍💻 &nbsp;About Me</th>
-  </tr>
+  <th colspan="2" style="font-size: 30px; padding: 10px; background-color: #FFF9C4; text-align: center;">👨🏻‍💻 &nbsp;About Me</th>
+</tr>
+
   <tr>
     <td>👨‍💻 &nbsp;I am a graduate in Computer Science.</td>
   </tr>
