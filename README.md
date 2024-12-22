@@ -48,7 +48,7 @@
 
 ## <div align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b></div>
 
-
+<br><br>
 ### <div align="center">🛠 &nbsp;Tech Stack</div>
 
 <div align="center">
@@ -74,11 +74,11 @@
 ![Macros](https://img.shields.io/badge/Macros-%230E4C97.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
 </div>
-
+<br><br>
 ---
 
 ### <div align="center">🗃 &nbsp;Databases</div>
-
+<br><br>
 <div align="center">
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -88,11 +88,11 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%230078D4.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 
 </div>
-
+<br><br>
 ---
 
 ### <div align="center">🧰 &nbsp;Version Control & Tools</div>
-
+<br><br>
 <div align="center">
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -105,7 +105,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
 </div>
-
+<br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
